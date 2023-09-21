@@ -24,3 +24,10 @@
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Denis_Mukhanov/badges/large)
+
+## Курсы
+
+| Название | Форма обучения | Статус/Сертификат |
+| :--- | :---: | :---: |
+| [Stepik: Data Science](https://stepik.org/course/113596/info) | Дистанционная | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/stepik-certificate-113596-1c96123.pdf) |
+| [Stepik: SQL для Анализа Данных](https://stepik.org/course/116332/info) | Дистанционная | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/stepik-certificate-116332-60e4dd0.pdf) |
