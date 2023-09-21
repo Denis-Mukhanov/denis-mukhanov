@@ -1,5 +1,6 @@
 # Привет, меня зовут Денис!
 
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mukhanovdv) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ds.mukhanov@gmail.com)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
