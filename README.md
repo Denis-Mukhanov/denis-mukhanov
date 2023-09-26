@@ -38,8 +38,8 @@
 
 | Название | Описание | Стек | Статус/Сертификат |
 | :--- | --- | :--- | :---: |
-| [мастерская Прогнозирование заказов такси Чикаго](https://github.com/Denis-Mukhanov/Chicago_taxi_trips_BigData) | Мастерская по обработке больших данных. Предсказание порайонного количества заказов такси с помощью вычислительного кластера Spark развёрнутого в Docker-контейнерах. | JupyterLab, PySpark, MLlib, Docker, Python - *Pandas, NumPy, Matplotlib, Optuna, LinearRegression, LightGBM, CatBoost* | Завершена |
-| [мастерская Определение уровня сложности англоязычных фильмов](https://github.com/Denis-Mukhanov/english-score) | Мастерская по разработке ML решения для автоматического определения уровня сложности англоязычных фильмов, создание веб-интерфейса и микросервиса. | Jupyter, Python, Streamlit - *Pandas, NumPy, Matplotlib, Optuna, NLTK, TfidfVectorizer, Re, CatBoost* | Завершена |
+| [*мастерская* Прогнозирование заказов такси Чикаго](https://github.com/Denis-Mukhanov/Chicago_taxi_trips_BigData) | Мастерская по обработке больших данных. Предсказание порайонного количества заказов такси с помощью вычислительного кластера Spark развёрнутого в Docker-контейнерах. | JupyterLab, PySpark, MLlib, Docker, Python - *Pandas, NumPy, Matplotlib, Optuna, LinearRegression, LightGBM, CatBoost* | Завершена |
+| [*мастерская* Определение уровня сложности англоязычных фильмов](https://github.com/Denis-Mukhanov/english-score) | Мастерская по разработке ML решения для автоматического определения уровня сложности англоязычных фильмов, создание веб-интерфейса и микросервиса. | Jupyter, Python, Streamlit - *Pandas, NumPy, Matplotlib, Optuna, NLTK, TfidfVectorizer, Re, CatBoost* | Завершена |
 
 
 
