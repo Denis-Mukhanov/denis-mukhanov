@@ -39,7 +39,15 @@
 | Название | Описание | Стек | Статус/Сертификат |
 | :--- | --- | :--- | :---: |
 | [*мастерская* Прогнозирование заказов такси Чикаго](https://github.com/Denis-Mukhanov/Chicago_taxi_trips_BigData) | Мастерская по обработке больших данных. Предсказание порайонного количества заказов такси с помощью вычислительного кластера Spark развёрнутого в Docker-контейнерах. | JupyterLab, PySpark, MLlib, Docker, Python - *Pandas, NumPy, Matplotlib, Optuna, LinearRegression, LightGBM, CatBoost* | Завершена |
-| [*мастерская* Определение уровня сложности англоязычных фильмов](https://github.com/Denis-Mukhanov/english-score) | Мастерская по разработке ML решения для автоматического определения уровня сложности англоязычных фильмов, создание веб-интерфейса и микросервиса. | Jupyter, Streamlit, Python - *Pandas, NumPy, Matplotlib, Optuna, NLTK, TfidfVectorizer, Re, CatBoost* | Завершена |
+| [*мастерская* Определение уровня сложности англоязычных фильмов](https://github.com/Denis-Mukhanov/english-score) | Мастерская по разработке ML решения для автоматического определения уровня сложности англоязычных фильмов, создание веб-интерфейса и микросервиса. | Jupyter Notebook, Streamlit, Python - *Pandas, NumPy, Matplotlib, Optuna, NLTK, TfidfVectorizer, Re, CatBoost* | Завершена |
 
+## Проекты Practicum DS+
 
-
+| Название проекта | Описание | Стек | 
+| :--- | --- | :--- |
+| [Обработка фотографий покупателя](https://github.com/Denis-Mukhanov/age-estimation) | Необходимо разработать инструмент, который по фотографии будет определять приблизительный возраст человека. | Jupyter Notebook, Python - *TensorFlow, ResNet, Keras* |
+| [Прогнозирование стоимости жилья в жилом массиве](https://github.com/Denis-Mukhanov/spark-home-value-prediction) | Прогнозирование стоимости жилья в жилом массиве | Python, Spark, Pandas |
+| [Обучение модели классификации комментариев](https://github.com/Denis-Mukhanov/toxic-comments) | Требуется разработать инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. | Jupyter Notebook, Python - *Pandas, NLTK, BERT, Optuna, Tfidf* |
+| [Прогнозирование количества заказов такси на следующий час](https://github.com/Denis-Mukhanov/forecast-of-taxi-orders) | Прогнозирование количества заказов такси на следующий час. | Jupyter Notebook, Python - *Pandas, Time Series, Optuna, PyTorch, LightGBM, Ridge* |
+| [Прогнозирование темпаратуры звезды](https://github.com/Denis-Mukhanov/determining-temperature-stars) | Прогнозирование темпаратуры звезды | Python, Pandas, Optuna, PyTorch |
+| [Разработка системы предупреждения аварий на каршеринге](https://github.com/Denis-Mukhanov/road-accident-risk) | Разработка системы предупреждения аварий на каршеринге | Jupyter Notebook, Python - *Pandas, SQLAlchemy, Sklearn, CatBoost, PyTorch, Shap, Phik* |
