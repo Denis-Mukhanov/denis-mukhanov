@@ -53,5 +53,5 @@
 | [Прогнозирование стоимости жилья в жилом массиве](https://github.com/Denis-Mukhanov/spark-home-value-prediction) | Прогнозирование стоимости жилья в жилом массиве | Python, Spark, Pandas |
 | [Обучение модели классификации комментариев](https://github.com/Denis-Mukhanov/toxic-comments) | Требуется разработать инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. | Jupyter Notebook, Python - *Pandas, NLTK, BERT, Optuna, Tfidf* |
 | [Прогнозирование количества заказов такси на следующий час](https://github.com/Denis-Mukhanov/forecast-of-taxi-orders) | Прогнозирование количества заказов такси на следующий час. | Jupyter Notebook, Python - *Pandas, Time Series, Optuna, PyTorch, LightGBM, Ridge* |
-| [Прогнозирование темпаратуры звезды](https://github.com/Denis-Mukhanov/determining-temperature-stars) | Прогнозирование темпаратуры звезды | Python, Pandas, Optuna, PyTorch |
+| [Прогнозирование темпаратуры звезды](https://github.com/Denis-Mukhanov/determining-temperature-stars) | Прогнозирование темпаратуры звезды | Jupyter Notebook, Python - *Pandas, Optuna, PyTorch* |
 | [Разработка системы предупреждения аварий на каршеринге](https://github.com/Denis-Mukhanov/road-accident-risk) | Разработка системы предупреждения аварий на каршеринге | Jupyter Notebook, Python - *Pandas, SQLAlchemy, Sklearn, CatBoost, PyTorch, Shap, Phik* |
