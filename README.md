@@ -1,6 +1,6 @@
 # Привет, меня зовут Денис
 
-<div align="center">
+<div align="left">
   <img src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="400" height="200"/>
 </div>
 
