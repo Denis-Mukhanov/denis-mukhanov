@@ -1,7 +1,7 @@
 # Привет, меня зовут Денис
 
 <div align="center">
-  <img src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="400" height="200"/>
 </div>
 
 - :book: Завершил курсы по Data Science от [Яндекс Практикум](https://practicum.yandex.ru/data-scientist-plus/?utm_source=partners&utm_medium=ratingoff&utm_campaign=partners_ratingoff_data-scientist-plus)
