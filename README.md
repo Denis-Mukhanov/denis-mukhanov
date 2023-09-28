@@ -1,5 +1,9 @@
 # Привет, меня зовут Денис
 
+<div align="center">
+  <img src="https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif" width="600" height="300"/>
+</div>
+
 - :book: Завершил курсы по Data Science от [Яндекс Практикум](https://practicum.yandex.ru/data-scientist-plus/?utm_source=partners&utm_medium=ratingoff&utm_campaign=partners_ratingoff_data-scientist-plus)
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-mukhanovdv-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/mukhanovdv) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ds.mukhanov@gmail.com)
 ---
