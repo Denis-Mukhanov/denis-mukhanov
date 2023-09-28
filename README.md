@@ -50,7 +50,7 @@
 | Название проекта | Описание | Стек | 
 | :--- | --- | :--- |
 | [Обработка фотографий покупателя](https://github.com/Denis-Mukhanov/age-estimation) | Необходимо разработать инструмент, который по фотографии будет определять приблизительный возраст человека. | Jupyter Notebook, Python - *TensorFlow, ResNet, Keras* |
-| [Прогнозирование стоимости жилья в жилом массиве](https://github.com/Denis-Mukhanov/spark-home-value-prediction) | Прогнозирование стоимости жилья в жилом массиве | Python, Spark, Pandas |
+| [Прогнозирование стоимости жилья в жилом массиве](https://github.com/Denis-Mukhanov/spark-home-value-prediction) | Прогнозирование стоимости жилья в жилом массиве | Jupyter Notebook, Python - *Spark, Pandas* |
 | [Обучение модели классификации комментариев](https://github.com/Denis-Mukhanov/toxic-comments) | Требуется разработать инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. | Jupyter Notebook, Python - *Pandas, NLTK, BERT, Optuna, Tfidf* |
 | [Прогнозирование количества заказов такси на следующий час](https://github.com/Denis-Mukhanov/forecast-of-taxi-orders) | Прогнозирование количества заказов такси на следующий час. | Jupyter Notebook, Python - *Pandas, Time Series, Optuna, PyTorch, LightGBM, Ridge* |
 | [Прогнозирование темпаратуры звезды](https://github.com/Denis-Mukhanov/determining-temperature-stars) | Прогнозирование темпаратуры звезды | Jupyter Notebook, Python - *Pandas, Optuna, PyTorch* |
