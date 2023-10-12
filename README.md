@@ -34,6 +34,12 @@
 | [Stepik: Data Science](https://stepik.org/course/113596/info) | Дистанционная | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/stepik-certificate-113596-1c96123.pdf) |
 | [Stepik: SQL для Анализа Данных](https://stepik.org/course/116332/info) | Дистанционная | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/stepik-certificate-116332-60e4dd0.pdf) |
 
+## Конференции
+
+| Название | Статус | Сертификат |
+| :--- | :---: | :---: |
+| [PG BootCamp Russia 2023](https://pgbootcamp.ru/ru/event/#program) | Участник | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/PG_BootCamp_Russia_2023.pdf) |
+
 ## Хакатоны / Мастерские
 
 | Название | Описание | Стек | Статус/Сертификат |
