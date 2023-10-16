@@ -36,9 +36,9 @@
 
 ## Конференции
 
-| Название | Статус | Сертификат |
+| Название | Статус | Сертификат/Дата |
 | :--- | :---: | :---: |
-| [PG BootCamp Russia 2023](https://pgbootcamp.ru/ru/event/#program) | Участник | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/PG_BootCamp_Russia_2023.pdf) |
+| [PG BootCamp Russia 2023](https://pgbootcamp.ru/ru/event/#program) | Участник | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/PG_BootCamp_Russia_2023.pdf) / 05-10-2023|
 
 ## Хакатоны / Мастерские
 
