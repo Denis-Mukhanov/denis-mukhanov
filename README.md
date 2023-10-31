@@ -36,9 +36,10 @@
 
 ## Конференции
 
-| Название | Статус | Сертификат/Дата |
+| Название | Основная тематика | Сертификат/Дата |
 | :--- | :---: | :---: |
-| [PG BootCamp Russia 2023](https://pgbootcamp.ru/ru/event/#program) | Участник | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/PG_BootCamp_Russia_2023.pdf) / 05-10-2023|
+| [PG BootCamp Russia 2023](https://pgbootcamp.ru/ru/event/#program) | PostgreSQL | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/PG_BootCamp_Russia_2023.pdf) / 05-10-2023|
+| [МегаФон Data Science-митап](https://networkly.app/event/3651) | Large Language Model, LLM | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/meet_up_megafon_LLM_2023.pdf) / 19-10-2023|
 
 ## Хакатоны / Мастерские
 
