@@ -53,6 +53,7 @@
 
 | Название проекта | Описание | Стек | 
 | :--- | --- | :--- |
+| [Прогнозирование оттока клиентов](https://github.com/Denis-Mukhanov/client-churn-prediction) | Разработка модели для прогнозирования вероятности расторжения договора абонентом. | Jupyter Notebook, Python - *SQLAlchemy, Pandas, Shap, Optuna, LogisticRegression, LightGBM, CatBoost, TensorFlow, Keras* |
 | [Обработка фотографий покупателя](https://github.com/Denis-Mukhanov/age-estimation) | Необходимо разработать инструмент, который по фотографии будет определять приблизительный возраст человека. | Jupyter Notebook, Python - *TensorFlow, ResNet, Keras* |
 | [Прогнозирование стоимости жилья в жилом массиве](https://github.com/Denis-Mukhanov/spark-home-value-prediction) | Прогнозирование стоимости жилья в жилом массиве | Jupyter Notebook, Python - *Spark, Pandas* |
 | [Обучение модели классификации комментариев](https://github.com/Denis-Mukhanov/toxic-comments) | Требуется разработать инструмент, который будет искать токсичные комментарии и отправлять их на модерацию. | Jupyter Notebook, Python - *Pandas, NLTK, BERT, Optuna, Tfidf* |
