@@ -40,6 +40,7 @@
 | :--- | :---: | :---: |
 | [PG BootCamp Russia 2023](https://pgbootcamp.ru/ru/event/#program) | PostgreSQL | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/PG_BootCamp_Russia_2023.pdf) / 05-10-2023|
 | [МегаФон Data Science-митап](https://networkly.app/event/3651) | Large Language Model, LLM | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/meet_up_megafon_LLM_2023.pdf) / 19-10-2023|
+| [Yet another Conference on Education](https://yace.yandex.ru/) | LEducation | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/Yet_another Conference_on_Education_2023.pdf) / 15-11-2023|
 
 ## Хакатоны / Мастерские
 
