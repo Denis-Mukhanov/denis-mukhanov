@@ -28,9 +28,9 @@
 
 ## Курсы
 
-| Название | Форма обучения | Статус/Сертификат |
+| Название | Форма обучения | Сертификат |
 | :--- | :---: | :---: |
-| [Яндекс.Практикум DataScience+](https://practicum.yandex.ru/profile/data-scientist-plus/) | Дистанционная | Сертификат |
+| [Яндекс.Практикум DataScience+](https://practicum.yandex.ru/profile/data-scientist-plus/) | Дистанционная | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/сertificate_Ya_DSp_rus.pdf)/[Certificate](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/сertificate_Ya_DSp_eng.pdf) |
 | [Stepik: Data Science](https://stepik.org/course/113596/info) | Дистанционная | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/stepik-certificate-113596-1c96123.pdf) |
 | [Stepik: SQL для Анализа Данных](https://stepik.org/course/116332/info) | Дистанционная | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/stepik-certificate-116332-60e4dd0.pdf) |
 
