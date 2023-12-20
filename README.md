@@ -40,14 +40,14 @@
 | Название | Основная тематика | Сертификат/Дата |
 | :--- | :---: | :---: |
 | [PG BootCamp Russia 2023](https://pgbootcamp.ru/ru/event/#program) | PostgreSQL | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/PG_BootCamp_Russia_2023.pdf) / 05-10-2023|
-| [МегаФон Data Science-митап](https://networkly.app/event/3651) | Large Language Model, LLM | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/meet_up_megafon_LLM_2023.pdf) / 19-10-2023|
+| [МегаФон Data Science-митап](https://networkly.app/event/3651) | Large Language Model | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/meet_up_megafon_LLM_2023.pdf) / 19-10-2023|
 | [Yet another Conference on Education](https://yace.yandex.ru/) | Education | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/Yet_another_Conference_on_Education_2023.pdf) / 15-11-2023|
 
 ## Хакатоны / Мастерские
 
 | Название | Описание | Стек | Статус/Сертификат |
 | :--- | --- | :--- | :---: |
-| [*хакатон* “Просепт”](https://github.com/Denis-Mukhanov/prosept_compare_service) | Кросс-функциональный хакатон по разработке ML-продукта и интерфейса модели сопоставления товаров | JupyterLab, Streamlit, Python - *Pandas, NumPy, MNLTK, BERT, Tfidf, SentenceTransformers* | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/prosept_best_ds.pdf) / [Certificate](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/prosept_en.pdf) |
+| [*хакатон* “Просепт”](https://github.com/Denis-Mukhanov/prosept_compare_service) | Кросс-функциональный хакатон по разработке ML-продукта и интерфейса модели сопоставления товаров | JupyterLab, Streamlit, Python - *Pandas, NumPy, NLTK, BERT, Tfidf, SentenceTransformers* | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/prosept_best_ds.pdf) / [Certificate](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/prosept_en.pdf) |
 | [*мастерская* Прогнозирование заказов такси Чикаго](https://github.com/Denis-Mukhanov/Chicago_taxi_trips_BigData) | Мастерская по обработке больших данных. Предсказание порайонного количества заказов такси с помощью вычислительного кластера Spark развёрнутого в Docker-контейнерах. | JupyterLab, PySpark, MLlib, Docker, Python - *Pandas, NumPy, Matplotlib, Optuna, LinearRegression, LightGBM, CatBoost* | Завершена |
 | [*мастерская* Определение уровня сложности англоязычных фильмов](https://github.com/Denis-Mukhanov/english-score) | Мастерская по разработке ML решения для автоматического определения уровня сложности англоязычных фильмов, создание веб-интерфейса и микросервиса. | Jupyter Notebook, Streamlit, Python - *Pandas, NumPy, Matplotlib, Optuna, NLTK, TfidfVectorizer, Re, CatBoost* | Завершена |
 | [*мастерская* Классификация музыкальных произведений по жанрам.](https://github.com/Denis-Mukhanov/music-genre-prediction) | Мастерская по разработке ML решения для автоматизации классификации музыкальных произведений | Jupyter Notebook, Python - *Pandas, NumPy, Matplotlib, Optuna, LogisticRegression, LightGBM, PyTorch, CatBoost* | Завершена |
