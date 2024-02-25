@@ -34,6 +34,7 @@
 | [Яндекс. Y&&Y Machine Learning](https://yandex.ru/yaintern/training/ml-training) | Дистанционная | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/Young&&Yandex.pdf) |
 | [Stepik: Data Science](https://stepik.org/course/113596/info) | Дистанционная | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/stepik-certificate-113596-1c96123.pdf) |
 | [Stepik: SQL для Анализа Данных](https://stepik.org/course/116332/info) | Дистанционная | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/stepik-certificate-116332-60e4dd0.pdf) |
+| [Stepik: А/Б-тесты](https://stepik.org/course/194930/info) | Дистанционная | [Сертификат](https://github.com/Denis-Mukhanov/denis-mukhanov/blob/main/certificates/stepik-certificate-194930-92a1c0a.pdf) |
 
 ## Конференции
 
